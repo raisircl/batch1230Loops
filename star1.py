@@ -7,8 +7,7 @@ while i<=3:
     i=i+1
     print()
 '''
-Questions:
-1. 
+Questions: 1. 
 1
 12
 123
